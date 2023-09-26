@@ -1,0 +1,14 @@
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\Decorator_DP_PizzaEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\Decorator_DP_PizzaEX.AssemblyInfoInputs.cache
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\Decorator_DP_PizzaEX.AssemblyInfo.cs
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\Decorator_DP_PizzaEX.csproj.CoreCompileInputs.cache
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\bin\Debug\net6.0\Decorator_DP_PizzaEX.exe
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\bin\Debug\net6.0\Decorator_DP_PizzaEX.deps.json
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\bin\Debug\net6.0\Decorator_DP_PizzaEX.runtimeconfig.json
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\bin\Debug\net6.0\Decorator_DP_PizzaEX.dll
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\bin\Debug\net6.0\Decorator_DP_PizzaEX.pdb
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\Decorator_DP_PizzaEX.dll
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\refint\Decorator_DP_PizzaEX.dll
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\Decorator_DP_PizzaEX.pdb
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\Decorator_DP_PizzaEX.genruntimeconfig.cache
+C:\Users\omars\source\repos\Decorator_DP_PizzaEX\Decorator_DP_PizzaEX\obj\Debug\net6.0\ref\Decorator_DP_PizzaEX.dll
